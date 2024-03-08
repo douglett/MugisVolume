@@ -1,0 +1,7 @@
+## Interface: 30403
+## Version: 0.1.0
+## Title: Mugi's Volume
+## Notes: Shows a volume bar when changing volume via keybinds. Based on Volumetric.
+## Author: Mugi
+
+MugisVolume.lua
