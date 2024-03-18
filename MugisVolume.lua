@@ -33,7 +33,7 @@ local volBar = CreateFrame("StatusBar", nil, frame)
 volBar:SetSize(width, height)
 volBar:SetPoint("CENTER", frame, "CENTER")
 volBar:SetStatusBarTexture("Interface\\TargetingFrame\\UI-StatusBar")
-volBar:SetStatusBarColor(0, 0, 1)
+volBar:SetStatusBarColor(0.1, 0.45, 1)
 volBar:SetMinMaxValues(0, 1)  -- max volume is 1, min 0
 
 -- fade out animation
