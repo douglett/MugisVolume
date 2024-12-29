@@ -1,5 +1,5 @@
-## Interface: 11502
-## Version: 2
+## Interface: 11505
+## Version: 3
 ## Title: Mugi's Volume
 ## Notes: Shows a volume bar when changing volume via keybinds. Based on Volumetric.
 ## Author: Mugi
